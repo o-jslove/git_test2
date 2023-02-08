@@ -8,4 +8,6 @@ public class Hello {
 	public void say() {
 		System.out.println("message");
 	}
+
+	// main 브랜치 영역
 }

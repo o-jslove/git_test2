@@ -6,4 +6,6 @@ public class Main {
 		Hello h = new Hello();
 		h.say();
 	}
+
+	// main 브랜치 영역
 }
